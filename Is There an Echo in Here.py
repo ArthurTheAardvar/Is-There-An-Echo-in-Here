@@ -5,3 +5,4 @@ for _ in range(n_cases):
     args = (val for val in line.split(" "))
 
     print(line)
+    print(line)
